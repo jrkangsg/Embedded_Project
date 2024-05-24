@@ -1,4 +1,4 @@
-#EmbeddedSystem
+# EmbeddedSystem
 Team repository for 2024 Spring semester Embedded System class (Group 6)
 
 self_lanetracking_traffic_final.py
