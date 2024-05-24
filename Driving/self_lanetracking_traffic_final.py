@@ -161,7 +161,7 @@ try:
 
         #apply Kalman Filter
         x, P = kalman_filter(err,x,P)
-        #err = x
+        err = x
         time_interval = time.time()-now
         now = time.time()
 
